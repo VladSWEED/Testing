@@ -1,0 +1,5 @@
+{
+    "apiUrl": "https://localhost:44300",
+    "devApiUrl": "https://localhost:44300",
+    "prodApiUrl": "https://localhost:44300"
+}

@@ -1,0 +1,33 @@
+[
+  {
+    "id": 0,
+    "FirstNameEn": "Dmitry",
+    "LastNameEn": "Kalatsilshchykau",
+    "FirstNameLocal": "Дмитрий",
+    "LastNameLocal": "Колотильщиков",
+    "MiddleNameLocal": "Анатольевич",
+    "Gender": "Male",
+    "Birthday": "28/09/1990",
+    "Location": "Minsk | T8 | 303",
+    "Organization": "ITAG Development, LLC",
+    "Reason": "After Interview",
+    "Phone": "+375296949269",
+    "Email": "d.kalatsilshchykau@itechart-group.com",
+    "IdentificationNum": "123456789",
+    "Unit": "U1.G1",
+    "Workplace": "16",
+    "Rank": "Middle",
+    "Position": "Software Engineer",
+    "StartDate": "06/09/2021",
+    "Contract": "Full",
+    "ContractDuration": "24",
+    "Registration": "In The Office",
+    "Equipment": "Notebook",
+    "WageRate": "1",
+    "TechnologicalProfile": "Base Profile Windows",
+    "Curator": "Yashchanka (Stselmatskaya) Viktoryia",
+    "TrialPeriod": "false",
+    "Student": "false",
+    "CurrentAddress": "Razinskaya street 1/1, Minsk"
+  }
+]

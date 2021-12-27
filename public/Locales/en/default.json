@@ -1,0 +1,59 @@
+{
+  "header": {
+    "personal": "Personal",
+    "administrative": "Administrative",
+    "service": "Service",
+    "system": "System",
+    "reports": "Reports",
+    "help": "Help",
+    "inputPlaceholder": "Enter employee name or whatever",
+    "links": {
+      "dashboard": "Dashboard",
+      "myProfile": "My Profile",
+      "timeTracking": "Time Tracking",
+      "employee": "Employee",
+      "units": "Units",
+      "projects": "Projects",
+      "accounts": "Accounts",
+      "timeApproval": "Time Approval",
+      "request": "Request",
+      "resources": "Resources",
+      "issues": "Issues",
+      "dismissalInstr": "Dismissal Instructions",
+      "oooEvents": "OOO Events",
+      "approvedTime": "Approved Time",
+      "approvedTimeWithOrg": "Approved Time With Organization",
+      "prSchedule": "PR Schedule",
+      "exceedingBillable": "Exceeding billable",
+      "bench": "Bench"
+    },
+    "buttons": {
+      "serviceRequest": "service request",
+      "oooRequest": "ooo request",      
+      "smgIssue": "smg issue",      
+      "create": "create",      
+      "signOut": "sign out"     
+    }
+  }, 
+  "dashboard": {
+    "timeTracking": "Time Tracking",
+    "oooRequest": "OOO Request",
+    "itRequest": "IT Request",
+    "activeProjects": "Active Projects",
+    "serviceRequests": "Service requests",
+    "smgIssues": "SMG Issues",
+    "smgIssue": "SMG Issue",
+    "reportedInMonth": "Reported in",
+    "workingHours": "Working hours",
+    "December": "December",
+    "vacation": "Vacation",
+    "illness": "Illness",
+    "remains": "remains",
+    "days": "d",
+    "hours": "h",
+    "minutes": "m",
+    "title": "title",
+    "status": "status",
+    "modified": "modified"
+  }
+}

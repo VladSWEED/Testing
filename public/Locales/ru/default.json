@@ -1,0 +1,59 @@
+{
+  "header": {
+    "personal": "Персональные",
+    "administrative": "Административные",
+    "service": "Сервис",
+    "system": "Система",
+    "reports": "Отчеты",
+    "help": "Помощь",
+    "inputPlaceholder": "Введите имя сотрудника",
+    "links": {
+      "dashboard": "Главная страница",
+      "myProfile": "Мой Профиль",
+      "timeTracking": "Отслеживание времени",
+      "employee": "Сотрудники",
+      "units": "Подразделения",
+      "projects": "Проекты",
+      "accounts": "Аккаунты",
+      "timeApproval": "Утверждение времени",
+      "request": "Запросы",
+      "resources": "Ресурсы",
+      "issues": "Вопросы",
+      "dismissalInstr": "Инструкции по увольнению",
+      "oooEvents": "ООО События",
+      "approvedTime": "Утвержденное время",
+      "approvedTimeWithOrg": "Утвержденное время с организацией",
+      "prSchedule": "График PR",
+      "exceedingBillable": "Превышение счетов",
+      "bench": "На Бенче"
+    },
+    "buttons": {
+      "serviceRequest": "сервис",
+      "oooRequest": "ооо запрос",      
+      "smgIssue": "smg проблемы",      
+      "create": "создать",      
+      "signOut": "выйти"     
+    }
+  },
+  "dashboard": {
+    "timeTracking": "Отслеживание времени",
+    "oooRequest": "OOO Запрос",
+    "itRequest": "IT Запрос",
+    "activeProjects": "Активные проекты",
+    "serviceRequests": "Запросы обслуживания",
+    "smgIssues": "SMG Предложения",
+    "smgIssue": "SMG Предложениe",
+    "reportedInMonth": "Отработано в",
+    "workingHours": "рабочее время",
+    "December": "декабре",
+    "vacation": "Отпуск",
+    "illness": "Болезнь",
+    "remains": "доступно",
+    "days": "д",
+    "hours": "ч",
+    "minutes": "м",
+    "title": "заголовок",
+    "status": "статус",
+    "modified": "изменен"
+  }
+}
